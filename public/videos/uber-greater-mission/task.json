@@ -1,0 +1,53 @@
+{
+  "kind" : "VIDEO",
+  "location" : {
+    "kind" : "DRIVE",
+    "payloadEncoding" : null,
+    "payload" : null,
+    "path" : null,
+    "spec" : "drv://s3/matny/UBER - Greater Mission.mp4"
+  },
+  "enableHooks" : true,
+  "targetDrive" : "drv://s3/matny_out/UBER - Greater Mission/",
+  "workspace" : "alsterlabs/rama/0cd551b6",
+  "workspaceItemId" : "main",
+  "shareSpaceHome" : {
+    "user" : {
+      "tenantId" : "alsterlabs",
+      "userId" : "rama"
+    }
+  },
+  "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home",
+  "user" : {
+    "tenantId" : "alsterlabs",
+    "userId" : "rama"
+  },
+  "roles" : [ ],
+  "videoScanOptions" : {
+    "language" : "ENGLISH",
+    "audioLanguage" : null,
+    "translateTo" : null,
+    "extractAudio" : true,
+    "transcribeAudio" : true,
+    "extractThumbs" : true,
+    "scanResolution" : 3,
+    "extractCaptions" : false,
+    "segmentBoundaryScan" : true,
+    "progressiveScan" : true,
+    "linearScan" : false,
+    "detectSegments" : true,
+    "detectObjects" : true,
+    "detectModerations" : true,
+    "detectCelebs" : true,
+    "detectTextInVideo" : true,
+    "detectTextInAudio" : false,
+    "detectIabCategoryInVideo" : true,
+    "detectIabCategoryInAudio" : true,
+    "detectSentimentInAudio" : false,
+    "detectIabCategoryInCaptions" : false,
+    "dynamic" : true
+  },
+  "audioScanOptions" : null,
+  "imageScanOptions" : null,
+  "textScanOptions" : null
+}

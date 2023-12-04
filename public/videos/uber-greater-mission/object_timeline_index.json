@@ -1,0 +1,4274 @@
+{
+  "Electronics" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 74.67404174804688
+    }, {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 97.9534683227539
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 79.59724426269531
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 65.09779357910156
+    } ],
+    "item" : "Electronics"
+  },
+  "Rug" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 63.59370422363281
+    } ],
+    "item" : "Rug"
+  },
+  "Screen" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 62.69199752807617
+    }, {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 97.9534683227539
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 65.09779357910156
+    } ],
+    "item" : "Screen"
+  },
+  "Gray" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 62.60124206542969
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 38.923065185546875
+    } ],
+    "item" : "Gray"
+  },
+  "People" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 56.634765625
+    }, {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 43.9136848449707
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 34.29450988769531
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 66.65856170654297
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 54.130130767822266
+    } ],
+    "item" : "People"
+  },
+  "LCD Screen" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 52.17133712768555
+    } ],
+    "item" : "LCD Screen"
+  },
+  "Monitor" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 52.17133712768555
+    }, {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 97.9534683227539
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 54.37944412231445
+    } ],
+    "item" : "Monitor"
+  },
+  "Tree" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 50.89754104614258
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 49.24073028564453
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 48.720191955566406
+    } ],
+    "item" : "Tree"
+  },
+  "Plant" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 50.89754104614258
+    }, {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 38.49806594848633
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 67.65104675292969
+    } ],
+    "item" : "Plant"
+  },
+  "Halo" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 49.0113639831543
+    }, {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 42.14457321166992
+    }, {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 79.09455871582031
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 45.450618743896484
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 34.18891143798828
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 45.27687454223633
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 43.14472961425781
+    } ],
+    "item" : "Halo"
+  },
+  "Computer" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 49.010589599609375
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 59.693904876708984
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 45.080440521240234
+    } ],
+    "item" : "Computer"
+  },
+  "Meal" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 48.200992584228516
+    } ],
+    "item" : "Meal"
+  },
+  "Mouse" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 47.64955520629883
+    } ],
+    "item" : "Mouse"
+  },
+  "Hardware" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 47.64955520629883
+    } ],
+    "item" : "Hardware"
+  },
+  "Face" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 47.16586685180664
+    }, {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 50.387718200683594
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 56.14810562133789
+    } ],
+    "item" : "Face"
+  },
+  "Keyboard" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 43.74618911743164
+    } ],
+    "item" : "Keyboard"
+  },
+  "Minecraft" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 43.25773239135742
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 44.14689254760742
+    } ],
+    "item" : "Minecraft"
+  },
+  "Cooktop" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 41.914466857910156
+    } ],
+    "item" : "Cooktop"
+  },
+  "Elevator" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 40.617652893066406
+    }, {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 43.039432525634766
+    } ],
+    "item" : "Elevator"
+  },
+  "Projection Screen" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 39.918128967285156
+    }, {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 41.433013916015625
+    } ],
+    "item" : "Projection Screen"
+  },
+  "Cable" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 39.28168487548828
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 47.99490737915039
+    } ],
+    "item" : "Cable"
+  },
+  "Microphone" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 38.83287811279297
+    } ],
+    "item" : "Microphone"
+  },
+  "Overcoat" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 38.447566986083984
+    }, {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 49.366329193115234
+    }, {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 60.99296951293945
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 49.21387481689453
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 61.6722526550293
+    } ],
+    "item" : "Overcoat"
+  },
+  "Dishwasher" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 38.13745880126953
+    } ],
+    "item" : "Dishwasher"
+  },
+  "Helmet" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 38.083885192871094
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 89.37325286865234
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 85.38961029052734
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 97.02842712402344
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 36.94495391845703
+    } ],
+    "item" : "Helmet"
+  },
+  "Mousepad" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 37.95940399169922
+    } ],
+    "item" : "Mousepad"
+  },
+  "Mat" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 37.95940399169922
+    } ],
+    "item" : "Mat"
+  },
+  "Desktop" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 37.01730728149414
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 42.39060592651367
+    } ],
+    "item" : "Desktop"
+  },
+  "Tablet Computer" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 36.94511032104492
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 41.80851745605469
+    } ],
+    "item" : "Tablet Computer"
+  },
+  "Disk" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 36.730831146240234
+    } ],
+    "item" : "Disk"
+  },
+  "Architecture" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 99.73311614990234
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 55.89154815673828
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 64.30424499511719
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 54.2135124206543
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 64.7802963256836
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 92.47187805175781
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 94.04229736328125
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 50.90553283691406
+    } ],
+    "item" : "Architecture"
+  },
+  "Building" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 99.73311614990234
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 87.513671875
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 99.994873046875
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 98.97989654541016
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 42.85758972167969
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 75.05501556396484
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 99.66145324707031
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 92.47187805175781
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 50.98295593261719
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 73.63888549804688
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 98.15795135498047
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 50.90553283691406
+    } ],
+    "item" : "Building"
+  },
+  "Window" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 98.98175811767578
+    }, {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 36.44000244140625
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 49.878631591796875
+    } ],
+    "item" : "Window"
+  },
+  "Display" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 97.9534683227539
+    } ],
+    "item" : "Display"
+  },
+  "Skylight" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 93.9769515991211
+    } ],
+    "item" : "Skylight"
+  },
+  "Home Decor" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 34.927001953125
+    } ],
+    "item" : "Home Decor"
+  },
+  "Control Tower" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 32.76357650756836
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 46.857627868652344
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 46.271759033203125
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 50.90553283691406
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 45.03547668457031
+    } ],
+    "item" : "Control Tower"
+  },
+  "Tower" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 32.76357650756836
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 37.469482421875
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 54.2135124206543
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 54.735321044921875
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 86.39673614501953
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 94.04229736328125
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 50.90553283691406
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 45.03547668457031
+    } ],
+    "item" : "Tower"
+  },
+  "Office Building" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 31.898530960083008
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 46.25923538208008
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 96.95173645019531
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 49.158607482910156
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 56.583168029785156
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 59.82884979248047
+    } ],
+    "item" : "Office Building"
+  },
+  "Pedestrian" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 31.176345825195312
+    }, {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 99.88248443603516
+    }, {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 49.56031799316406
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 67.25888061523438
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 56.187416076660156
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 58.91059875488281
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 71.31446075439453
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 48.86363983154297
+    } ],
+    "item" : "Pedestrian"
+  },
+  "Planetarium" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 30.816165924072266
+    }, {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 50.49539566040039
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 46.77590560913086
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 47.56277084350586
+    } ],
+    "item" : "Planetarium"
+  },
+  "City" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 30.714357376098633
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 87.513671875
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 99.994873046875
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 98.97989654541016
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 42.85758972167969
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 45.84329605102539
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 99.66145324707031
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 50.98295593261719
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 52.67184066772461
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 93.8853759765625
+    } ],
+    "item" : "City"
+  },
+  "Urban" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 30.714357376098633
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 87.513671875
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 99.994873046875
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 98.97989654541016
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 42.85758972167969
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 59.96378707885742
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 99.66145324707031
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 49.03538513183594
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 50.98295593261719
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 60.95490264892578
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 93.8853759765625
+    } ],
+    "item" : "Urban"
+  },
+  "Town" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 30.714357376098633
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 42.85758972167969
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 50.98295593261719
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 52.67184066772461
+    } ],
+    "item" : "Town"
+  },
+  "Pyramid" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 30.344385147094727
+    } ],
+    "item" : "Pyramid"
+  },
+  "Road" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 99.9619140625
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 93.52597045898438
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 99.994873046875
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 94.23381805419922
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 94.97895050048828
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 45.81968688964844
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 41.73367691040039
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 58.346275329589844
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 99.99654388427734
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 99.94456481933594
+    } ],
+    "item" : "Road"
+  },
+  "Person" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 99.88248443603516
+    }, {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 99.43132019042969
+    }, {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 98.12007904052734
+    }, {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 94.58606719970703
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 98.71024322509766
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 99.0376968383789
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 99.30621337890625
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 98.6673583984375
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 99.23797607421875
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 99.73085021972656
+    } ],
+    "item" : "Person"
+  },
+  "Tarmac" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 99.77019500732422
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 81.43053436279297
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 94.49212646484375
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 59.933013916015625
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 57.4958381652832
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 50.22505569458008
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 47.34552764892578
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 99.99923706054688
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 42.225101470947266
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 92.1201171875
+    } ],
+    "item" : "Tarmac"
+  },
+  "Car" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 93.74833679199219
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 56.60409164428711
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 69.47706604003906
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 78.62948608398438
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 99.35015106201172
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 65.11036682128906
+    } ],
+    "item" : "Car"
+  },
+  "Transportation" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 93.74833679199219
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 68.6622543334961
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 83.876708984375
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 77.01129150390625
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 78.62948608398438
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 99.781494140625
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 99.35015106201172
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 65.11036682128906
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 49.06953048706055
+    } ],
+    "item" : "Transportation"
+  },
+  "Vehicle" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 93.74833679199219
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 68.55546569824219
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 83.876708984375
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 74.78099822998047
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 78.62948608398438
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 99.781494140625
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 99.35015106201172
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 65.11036682128906
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 48.47459030151367
+    } ],
+    "item" : "Vehicle"
+  },
+  "Zebra Crossing" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 89.01036834716797
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 50.12272262573242
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 33.55455017089844
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 34.42723083496094
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 41.73367691040039
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 99.10655975341797
+    } ],
+    "item" : "Zebra Crossing"
+  },
+  "Intersection" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 86.68282318115234
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 52.003456115722656
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 84.08440399169922
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 61.99944305419922
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 31.71712875366211
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 49.035667419433594
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 47.511878967285156
+    } ],
+    "item" : "Intersection"
+  },
+  "Highway" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 69.2291259765625
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 57.32247543334961
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 55.06170654296875
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 50.74428176879883
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 42.06501007080078
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 97.74235534667969
+    } ],
+    "item" : "Highway"
+  },
+  "Freeway" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 69.2291259765625
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 45.31270980834961
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 69.09030151367188
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 75.51271057128906
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 55.67977523803711
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 44.65763473510742
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 44.229427337646484
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 98.52886199951172
+    } ],
+    "item" : "Freeway"
+  },
+  "Path" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 53.2395133972168
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 94.0423583984375
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 41.952640533447266
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 38.76151657104492
+    } ],
+    "item" : "Path"
+  },
+  "Bus Stop" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 48.8828239440918
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 43.387969970703125
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 43.66529846191406
+    } ],
+    "item" : "Bus Stop"
+  },
+  "Walking" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 41.98762512207031
+    } ],
+    "item" : "Walking"
+  },
+  "Barricade" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 41.38279342651367
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 39.701148986816406
+    } ],
+    "item" : "Barricade"
+  },
+  "Marching" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 40.147552490234375
+    } ],
+    "item" : "Marching"
+  },
+  "Crowd" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 40.147552490234375
+    }, {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 54.90582275390625
+    }, {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 44.384307861328125
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 43.65122985839844
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 38.07923889160156
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 77.19194030761719
+    } ],
+    "item" : "Crowd"
+  },
+  "Hardhat" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 39.4801025390625
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 38.15878677368164
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 43.24526596069336
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 54.7516975402832
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 85.86113739013672
+    } ],
+    "item" : "Hardhat"
+  },
+  "Police" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 38.968482971191406
+    } ],
+    "item" : "Police"
+  },
+  "Coat" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 37.72836685180664
+    }, {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 49.366329193115234
+    }, {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 60.99296951293945
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 49.21387481689453
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 61.6722526550293
+    } ],
+    "item" : "Coat"
+  },
+  "Running" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 36.47146987915039
+    } ],
+    "item" : "Running"
+  },
+  "Crawling" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 36.31089782714844
+    } ],
+    "item" : "Crawling"
+  },
+  "Bus" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 35.865135192871094
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 49.321800231933594
+    } ],
+    "item" : "Bus"
+  },
+  "Cyclist" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 34.72576904296875
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 57.41360092163086
+    } ],
+    "item" : "Cyclist"
+  },
+  "Fireman" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 34.293983459472656
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 84.06304168701172
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 37.60758972167969
+    } ],
+    "item" : "Fireman"
+  },
+  "Sign" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 33.82699203491211
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 56.59462356567383
+    } ],
+    "item" : "Sign"
+  },
+  "Final Fantasy" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 33.658973693847656
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 37.0511360168457
+    } ],
+    "item" : "Final Fantasy"
+  },
+  "Tar" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 33.51818084716797
+    } ],
+    "item" : "Tar"
+  },
+  "Sidewalk" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 33.41407012939453
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 68.13053894042969
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 37.462303161621094
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 31.740942001342773
+    } ],
+    "item" : "Sidewalk"
+  },
+  "Lens Cap" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 32.879207611083984
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 33.28743362426758
+    } ],
+    "item" : "Lens Cap"
+  },
+  "Sunglasses" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 80.84208679199219
+    } ],
+    "item" : "Sunglasses"
+  },
+  "Clothing" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 64.40935516357422
+    }, {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 95.36067962646484
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 77.26578521728516
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 93.90534973144531
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 85.38961029052734
+    }, {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 33.306297302246094
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 98.22689819335938
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 38.862972259521484
+    } ],
+    "item" : "Clothing"
+  },
+  "Female" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 62.40202331542969
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 39.822242736816406
+    } ],
+    "item" : "Female"
+  },
+  "Hair" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 55.528907775878906
+    }, {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 40.29653549194336
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 45.6651611328125
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 45.37640380859375
+    } ],
+    "item" : "Hair"
+  },
+  "Head" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 55.486202239990234
+    }, {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 51.77262496948242
+    } ],
+    "item" : "Head"
+  },
+  "Performer" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 52.75710678100586
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 30.015369415283203
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 38.93737030029297
+    } ],
+    "item" : "Performer"
+  },
+  "Woman" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 48.955745697021484
+    } ],
+    "item" : "Woman"
+  },
+  "Turnstile" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 46.6867561340332
+    } ],
+    "item" : "Turnstile"
+  },
+  "Video Camera" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 45.63942337036133
+    } ],
+    "item" : "Video Camera"
+  },
+  "Text" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 44.53707504272461
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 50.14707565307617
+    } ],
+    "item" : "Text"
+  },
+  "Make Out" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 42.29759979248047
+    }, {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 47.33214569091797
+    } ],
+    "item" : "Make Out"
+  },
+  "Jacket" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 41.28694152832031
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 45.51704025268555
+    } ],
+    "item" : "Jacket"
+  },
+  "Advertisement" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 39.95347213745117
+    } ],
+    "item" : "Advertisement"
+  },
+  "Audience" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 39.81950759887695
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 37.06236267089844
+    } ],
+    "item" : "Audience"
+  },
+  "Speaker" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 38.850765228271484
+    } ],
+    "item" : "Speaker"
+  },
+  "Speech" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 37.943485260009766
+    } ],
+    "item" : "Speech"
+  },
+  "Finger" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 37.43165969848633
+    }, {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 43.01304244995117
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 60.02227783203125
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 48.06008529663086
+    } ],
+    "item" : "Finger"
+  },
+  "Photo Booth" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 36.99378204345703
+    } ],
+    "item" : "Photo Booth"
+  },
+  "Purse" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 36.842350006103516
+    } ],
+    "item" : "Purse"
+  },
+  "Sitting" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 36.60423278808594
+    }, {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 51.31460952758789
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 47.918697357177734
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 39.6422119140625
+    } ],
+    "item" : "Sitting"
+  },
+  "Newsstand" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 36.50859451293945
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 38.01397705078125
+    } ],
+    "item" : "Newsstand"
+  },
+  "Graduation" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 36.497798919677734
+    } ],
+    "item" : "Graduation"
+  },
+  "Paparazzi" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 36.416343688964844
+    } ],
+    "item" : "Paparazzi"
+  },
+  "Duet" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 36.372196197509766
+    } ],
+    "item" : "Duet"
+  },
+  "Hat" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 70.29093933105469
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 44.0277099609375
+    } ],
+    "item" : "Hat"
+  },
+  "Cap" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 64.11512756347656
+    } ],
+    "item" : "Cap"
+  },
+  "Man" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 45.7566032409668
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 46.44503402709961
+    } ],
+    "item" : "Man"
+  },
+  "Sun Hat" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 45.74531555175781
+    } ],
+    "item" : "Sun Hat"
+  },
+  "Canopy" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 44.608882904052734
+    } ],
+    "item" : "Canopy"
+  },
+  "Windshield" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 44.4498176574707
+    } ],
+    "item" : "Windshield"
+  },
+  "Baseball Cap" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 43.300537109375
+    } ],
+    "item" : "Baseball Cap"
+  },
+  "Jaw" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 41.22059631347656
+    }, {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 43.58202362060547
+    } ],
+    "item" : "Jaw"
+  },
+  "Grand Theft Auto" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 40.99160385131836
+    }, {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 44.07455825805664
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 47.91951370239258
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 50.90937423706055
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 62.682464599609375
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 40.2109260559082
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 41.5175895690918
+    } ],
+    "item" : "Grand Theft Auto"
+  },
+  "Beanie" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 40.42842102050781
+    } ],
+    "item" : "Beanie"
+  },
+  "Studio" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 40.24653625488281
+    }, {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 42.31351852416992
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 42.53671646118164
+    } ],
+    "item" : "Studio"
+  },
+  "Guard" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 40.227195739746094
+    } ],
+    "item" : "Guard"
+  },
+  "Duel" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 40.029884338378906
+    } ],
+    "item" : "Duel"
+  },
+  "Car Wheel" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 38.61779022216797
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 48.05997848510742
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 47.06782150268555
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 60.5257568359375
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 99.6860580444336
+    } ],
+    "item" : "Car Wheel"
+  },
+  "Tire" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 38.61779022216797
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 48.05997848510742
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 47.06782150268555
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 60.5257568359375
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 99.94542694091797
+    } ],
+    "item" : "Tire"
+  },
+  "Coffee Cup" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 38.58123779296875
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 40.634483337402344
+    } ],
+    "item" : "Coffee Cup"
+  },
+  "Mannequin" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 38.06159210205078
+    }, {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 39.53849411010742
+    } ],
+    "item" : "Mannequin"
+  },
+  "Cowboy Hat" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 36.60417175292969
+    } ],
+    "item" : "Cowboy Hat"
+  },
+  "Train" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 35.84288787841797
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 42.02491760253906
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 52.78431701660156
+    } ],
+    "item" : "Train"
+  },
+  "Headlight" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 35.52810287475586
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 44.545169830322266
+    } ],
+    "item" : "Headlight"
+  },
+  "Interior Design" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 99.63133239746094
+    } ],
+    "item" : "Interior Design"
+  },
+  "Indoors" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 99.63133239746094
+    } ],
+    "item" : "Indoors"
+  },
+  "Room" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 84.21403503417969
+    } ],
+    "item" : "Room"
+  },
+  "Leisure Activities" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 68.65599822998047
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 73.09416198730469
+    } ],
+    "item" : "Leisure Activities"
+  },
+  "Theater" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 58.716976165771484
+    } ],
+    "item" : "Theater"
+  },
+  "Aquatic" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 52.27751159667969
+    } ],
+    "item" : "Aquatic"
+  },
+  "Water" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 52.27751159667969
+    } ],
+    "item" : "Water"
+  },
+  "Aquarium" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 51.962547302246094
+    } ],
+    "item" : "Aquarium"
+  },
+  "Animal" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 51.962547302246094
+    }, {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 98.93594360351562
+    } ],
+    "item" : "Animal"
+  },
+  "Sea Life" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 51.962547302246094
+    } ],
+    "item" : "Sea Life"
+  },
+  "Karaoke" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 49.69287872314453
+    } ],
+    "item" : "Karaoke"
+  },
+  "Cinema" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 45.62015151977539
+    } ],
+    "item" : "Cinema"
+  },
+  "Word" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 43.74795150756836
+    } ],
+    "item" : "Word"
+  },
+  "Silhouette" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 43.46767807006836
+    }, {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 43.40977478027344
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 42.7740478515625
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 45.095664978027344
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 57.57082748413086
+    } ],
+    "item" : "Silhouette"
+  },
+  "Dance Pose" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 43.15293502807617
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 37.23609161376953
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 35.5960578918457
+    } ],
+    "item" : "Dance Pose"
+  },
+  "Forge" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 42.87354278564453
+    } ],
+    "item" : "Forge"
+  },
+  "Orchestra Pit" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 42.63418960571289
+    } ],
+    "item" : "Orchestra Pit"
+  },
+  "Alien" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 41.73553466796875
+    } ],
+    "item" : "Alien"
+  },
+  "Meeting Room" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 40.33198547363281
+    } ],
+    "item" : "Meeting Room"
+  },
+  "Phone" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 66.34209442138672
+    } ],
+    "item" : "Phone"
+  },
+  "Video Gaming" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 63.15644073486328
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 47.521644592285156
+    } ],
+    "item" : "Video Gaming"
+  },
+  "Mobile Phone" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 52.87269592285156
+    } ],
+    "item" : "Mobile Phone"
+  },
+  "Crystal" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 44.99479293823242
+    } ],
+    "item" : "Crystal"
+  },
+  "Night Life" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 44.699066162109375
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 42.24828338623047
+    } ],
+    "item" : "Night Life"
+  },
+  "Vigil" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 42.986759185791016
+    } ],
+    "item" : "Vigil"
+  },
+  "Pc" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 41.77396774291992
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 40.80540466308594
+    } ],
+    "item" : "Pc"
+  },
+  "Injection" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 41.028228759765625
+    } ],
+    "item" : "Injection"
+  },
+  "Hand" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 40.750675201416016
+    } ],
+    "item" : "Hand"
+  },
+  "Sailor Suit" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 40.52284240722656
+    } ],
+    "item" : "Sailor Suit"
+  },
+  "Texting" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 40.04560470581055
+    } ],
+    "item" : "Texting"
+  },
+  "Iphone" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 39.55663299560547
+    } ],
+    "item" : "Iphone"
+  },
+  "Shirt" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 39.14822769165039
+    } ],
+    "item" : "Shirt"
+  },
+  "Metropolis" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 87.513671875
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 87.3625717163086
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 98.97989654541016
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 42.85758972167969
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 99.66145324707031
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 50.98295593261719
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 52.67184066772461
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 93.8853759765625
+    } ],
+    "item" : "Metropolis"
+  },
+  "Street" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 55.933189392089844
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 99.994873046875
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 37.05025100708008
+    } ],
+    "item" : "Street"
+  },
+  "High Rise" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 51.04228210449219
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 47.72414016723633
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 84.79283142089844
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 45.84329605102539
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 91.39006042480469
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 56.13426971435547
+    } ],
+    "item" : "High Rise"
+  },
+  "Machine" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 50.49003219604492
+    }, {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 41.181884765625
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 50.045387268066406
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 60.5257568359375
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 99.86615753173828
+    } ],
+    "item" : "Machine"
+  },
+  "Neighborhood" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 48.6068000793457
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 52.64778518676758
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 57.02784729003906
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 49.55794143676758
+    } ],
+    "item" : "Neighborhood"
+  },
+  "Smoke" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 48.18822479248047
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 55.39592361450195
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 42.250823974609375
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 51.9017219543457
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 40.570037841796875
+    } ],
+    "item" : "Smoke"
+  },
+  "Motorcycle" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 47.61477279663086
+    } ],
+    "item" : "Motorcycle"
+  },
+  "Billboard" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 46.160980224609375
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 33.56636428833008
+    } ],
+    "item" : "Billboard"
+  },
+  "Nature" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 45.034393310546875
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 70.90416717529297
+    }, {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 30.195096969604492
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 99.50460052490234
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 97.12704467773438
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 97.84184265136719
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 98.71993255615234
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 82.65496826171875
+    } ],
+    "item" : "Nature"
+  },
+  "Power Lines" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 42.690433502197266
+    } ],
+    "item" : "Power Lines"
+  },
+  "Electric Transmission Tower" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 41.71266174316406
+    } ],
+    "item" : "Electric Transmission Tower"
+  },
+  "Crash Helmet" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 89.37325286865234
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 77.09503936767578
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 36.94495391845703
+    } ],
+    "item" : "Crash Helmet"
+  },
+  "Accessories" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 59.32831573486328
+    } ],
+    "item" : "Accessories"
+  },
+  "Cushion" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 56.17045974731445
+    } ],
+    "item" : "Cushion"
+  },
+  "Belt" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 55.65705490112305
+    } ],
+    "item" : "Belt"
+  },
+  "Car Seat" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 54.77582931518555
+    } ],
+    "item" : "Car Seat"
+  },
+  "Seat Belt" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 54.127769470214844
+    } ],
+    "item" : "Seat Belt"
+  },
+  "Headrest" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 45.532318115234375
+    } ],
+    "item" : "Headrest"
+  },
+  "Sleeve" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 42.71113204956055
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 38.3775520324707
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 38.862972259521484
+    } ],
+    "item" : "Sleeve"
+  },
+  "Harness" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 41.77882766723633
+    } ],
+    "item" : "Harness"
+  },
+  "Driving" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 41.58087921142578
+    } ],
+    "item" : "Driving"
+  },
+  "Injury" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 41.4697265625
+    } ],
+    "item" : "Injury"
+  },
+  "Glasses" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 41.05413818359375
+    } ],
+    "item" : "Glasses"
+  },
+  "Footwear" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 40.443660736083984
+    } ],
+    "item" : "Footwear"
+  },
+  "Bonnet" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 40.41790771484375
+    } ],
+    "item" : "Bonnet"
+  },
+  "Shorts" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 39.7318229675293
+    } ],
+    "item" : "Shorts"
+  },
+  "Goggles" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 39.44289779663086
+    } ],
+    "item" : "Goggles"
+  },
+  "Patient" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 39.33524703979492
+    } ],
+    "item" : "Patient"
+  },
+  "Baby" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 38.237693786621094
+    } ],
+    "item" : "Baby"
+  },
+  "Alley" : {
+    "periods" : [ {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 89.37733459472656
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 45.075103759765625
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 46.310523986816406
+    } ],
+    "item" : "Alley"
+  },
+  "Truck" : {
+    "periods" : [ {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 83.876708984375
+    } ],
+    "item" : "Truck"
+  },
+  "Downtown" : {
+    "periods" : [ {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 70.65117645263672
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 78.67817687988281
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 85.7763671875
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 45.077762603759766
+    } ],
+    "item" : "Downtown"
+  },
+  "Walkway" : {
+    "periods" : [ {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 54.056983947753906
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 34.53160095214844
+    } ],
+    "item" : "Walkway"
+  },
+  "Spire" : {
+    "periods" : [ {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 47.321990966796875
+    }, {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 57.326576232910156
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 54.2135124206543
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 54.735321044921875
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 66.7901382446289
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 91.07972717285156
+    } ],
+    "item" : "Spire"
+  },
+  "Wheel" : {
+    "periods" : [ {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 47.06782150268555
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 99.4577865600586
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 60.5257568359375
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 99.86615753173828
+    } ],
+    "item" : "Wheel"
+  },
+  "Housing" : {
+    "periods" : [ {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 43.1233024597168
+    } ],
+    "item" : "Housing"
+  },
+  "Outdoors" : {
+    "periods" : [ {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 74.48949432373047
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 99.50460052490234
+    }, {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 91.70134735107422
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 96.03843688964844
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 98.7464370727539
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 86.32262420654297
+    } ],
+    "item" : "Outdoors"
+  },
+  "Landscape" : {
+    "periods" : [ {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 70.90416717529297
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 99.50460052490234
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 39.63650894165039
+    } ],
+    "item" : "Landscape"
+  },
+  "Apartment Building" : {
+    "periods" : [ {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 66.79292297363281
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 53.25596618652344
+    } ],
+    "item" : "Apartment Building"
+  },
+  "Scenery" : {
+    "periods" : [ {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 65.76800537109375
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 98.40206909179688
+    } ],
+    "item" : "Scenery"
+  },
+  "Aerial View" : {
+    "periods" : [ {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 65.36396026611328
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 88.47479248046875
+    } ],
+    "item" : "Aerial View"
+  },
+  "Coupe" : {
+    "periods" : [ {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 57.30265426635742
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 47.22025680541992
+    } ],
+    "item" : "Coupe"
+  },
+  "Watercraft" : {
+    "periods" : [ {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 48.32682418823242
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 38.23563003540039
+    } ],
+    "item" : "Watercraft"
+  },
+  "Canal" : {
+    "periods" : [ {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 47.923126220703125
+    } ],
+    "item" : "Canal"
+  },
+  "Traffic Jam" : {
+    "periods" : [ {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 46.629032135009766
+    } ],
+    "item" : "Traffic Jam"
+  },
+  "Symbol" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 62.66595458984375
+    } ],
+    "item" : "Symbol"
+  },
+  "Cone" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 60.192779541015625
+    } ],
+    "item" : "Cone"
+  },
+  "Guard Rail" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 57.13297653198242
+    } ],
+    "item" : "Guard Rail"
+  },
+  "Road Sign" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 48.73277282714844
+    } ],
+    "item" : "Road Sign"
+  },
+  "Fence" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 45.29066467285156
+    } ],
+    "item" : "Fence"
+  },
+  "Formula One" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 41.716888427734375
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 44.62428283691406
+    } ],
+    "item" : "Formula One"
+  },
+  "Kite" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 40.87797164916992
+    } ],
+    "item" : "Kite"
+  },
+  "Toy" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 40.87797164916992
+    } ],
+    "item" : "Toy"
+  },
+  "Airfield" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 40.357147216796875
+    } ],
+    "item" : "Airfield"
+  },
+  "Airport" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 40.357147216796875
+    } ],
+    "item" : "Airport"
+  },
+  "Triangle" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 37.57394790649414
+    } ],
+    "item" : "Triangle"
+  },
+  "Sports Car" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 37.256202697753906
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 59.49219512939453
+    } ],
+    "item" : "Sports Car"
+  },
+  "Slope" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 33.7199592590332
+    } ],
+    "item" : "Slope"
+  },
+  "Coffee Table" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 33.3259162902832
+    } ],
+    "item" : "Coffee Table"
+  },
+  "Car Mirror" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 33.01005935668945
+    }, {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 39.25575637817383
+    } ],
+    "item" : "Car Mirror"
+  },
+  "Spaceship" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 32.98106002807617
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 43.81697463989258
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 41.902923583984375
+    } ],
+    "item" : "Spaceship"
+  },
+  "School Bus" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 31.437891006469727
+    } ],
+    "item" : "School Bus"
+  },
+  "Human" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 98.6673583984375
+    } ],
+    "item" : "Human"
+  },
+  "Apparel" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 85.38961029052734
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 38.862972259521484
+    } ],
+    "item" : "Apparel"
+  },
+  "Call of Duty" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 42.89206314086914
+    } ],
+    "item" : "Call of Duty"
+  },
+  "Lighting" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 40.86941909790039
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 49.73966979980469
+    } ],
+    "item" : "Lighting"
+  },
+  "Musician" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 40.852684020996094
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 40.73567581176758
+    } ],
+    "item" : "Musician"
+  },
+  "Musical Instrument" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 40.852684020996094
+    } ],
+    "item" : "Musical Instrument"
+  },
+  "Stage" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 40.391422271728516
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 40.20946502685547
+    } ],
+    "item" : "Stage"
+  },
+  "Rock Concert" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 36.03760528564453
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 48.186649322509766
+    } ],
+    "item" : "Rock Concert"
+  },
+  "Concert" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 36.03760528564453
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 48.186649322509766
+    } ],
+    "item" : "Concert"
+  },
+  "World Of Warcraft" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 34.851463317871094
+    } ],
+    "item" : "World Of Warcraft"
+  },
+  "Clinic" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 33.478118896484375
+    } ],
+    "item" : "Clinic"
+  },
+  "Pollution" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 32.36555480957031
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 43.07384490966797
+    } ],
+    "item" : "Pollution"
+  },
+  "Samurai" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 31.470029830932617
+    } ],
+    "item" : "Samurai"
+  },
+  "Fog" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 30.195096969604492
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 37.19143295288086
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 46.26868438720703
+    } ],
+    "item" : "Fog"
+  },
+  "Flying" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 98.93594360351562
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 55.61083984375
+    } ],
+    "item" : "Flying"
+  },
+  "Bird" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 98.93594360351562
+    } ],
+    "item" : "Bird"
+  },
+  "Flock" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 97.96751403808594
+    } ],
+    "item" : "Flock"
+  },
+  "Blackbird" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 47.10687255859375
+    } ],
+    "item" : "Blackbird"
+  },
+  "Agelaius" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 47.10687255859375
+    } ],
+    "item" : "Agelaius"
+  },
+  "Finch" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 41.42277908325195
+    } ],
+    "item" : "Finch"
+  },
+  "Wolf" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 40.4409294128418
+    } ],
+    "item" : "Wolf"
+  },
+  "Waterfowl" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 40.13499069213867
+    } ],
+    "item" : "Waterfowl"
+  },
+  "Flower" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 38.49806594848633
+    } ],
+    "item" : "Flower"
+  },
+  "Swallow" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 37.51493835449219
+    } ],
+    "item" : "Swallow"
+  },
+  "Crow" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 36.870357513427734
+    } ],
+    "item" : "Crow"
+  },
+  "Jar" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 36.04755401611328
+    } ],
+    "item" : "Jar"
+  },
+  "Puffin" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 35.53992462158203
+    } ],
+    "item" : "Puffin"
+  },
+  "Suit" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 33.306297302246094
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 61.6722526550293
+    } ],
+    "item" : "Suit"
+  },
+  "Egret" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 33.21184158325195
+    } ],
+    "item" : "Egret"
+  },
+  "Heron" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 33.21184158325195
+    } ],
+    "item" : "Heron"
+  },
+  "Arm" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 32.985469818115234
+    } ],
+    "item" : "Arm"
+  },
+  "Parakeet" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 32.74166488647461
+    } ],
+    "item" : "Parakeet"
+  },
+  "Collage" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 31.999629974365234
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 39.64278030395508
+    } ],
+    "item" : "Collage"
+  },
+  "Tuxedo" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 31.82105827331543
+    } ],
+    "item" : "Tuxedo"
+  },
+  "Jay" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 31.811002731323242
+    } ],
+    "item" : "Jay"
+  },
+  "Goose" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 31.691890716552734
+    } ],
+    "item" : "Goose"
+  },
+  "Petal" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 31.293249130249023
+    } ],
+    "item" : "Petal"
+  },
+  "Hunting" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 31.227285385131836
+    } ],
+    "item" : "Hunting"
+  },
+  "Crane Bird" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 30.80015754699707
+    } ],
+    "item" : "Crane Bird"
+  },
+  "Hummingbird" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 30.068737030029297
+    } ],
+    "item" : "Hummingbird"
+  },
+  "Sport" : {
+    "periods" : [ {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 53.310237884521484
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 57.41360092163086
+    } ],
+    "item" : "Sport"
+  },
+  "Circus" : {
+    "periods" : [ {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 47.152069091796875
+    } ],
+    "item" : "Circus"
+  },
+  "Dj" : {
+    "periods" : [ {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 43.90602493286133
+    } ],
+    "item" : "Dj"
+  },
+  "Team Sport" : {
+    "periods" : [ {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 42.3774528503418
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 39.23768997192383
+    } ],
+    "item" : "Team Sport"
+  },
+  "Team" : {
+    "periods" : [ {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 42.3774528503418
+    } ],
+    "item" : "Team"
+  },
+  "Football Helmet" : {
+    "periods" : [ {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 39.71772384643555
+    } ],
+    "item" : "Football Helmet"
+  },
+  "American Football" : {
+    "periods" : [ {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 39.71772384643555
+    } ],
+    "item" : "American Football"
+  },
+  "Football" : {
+    "periods" : [ {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 39.71772384643555
+    } ],
+    "item" : "Football"
+  },
+  "Chain Saw" : {
+    "periods" : [ {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 39.10606002807617
+    } ],
+    "item" : "Chain Saw"
+  },
+  "Burger" : {
+    "periods" : [ {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 38.277774810791016
+    } ],
+    "item" : "Burger"
+  },
+  "Bicycle" : {
+    "periods" : [ {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 99.781494140625
+    } ],
+    "item" : "Bicycle"
+  },
+  "Bmx" : {
+    "periods" : [ {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 58.478759765625
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 37.861480712890625
+    } ],
+    "item" : "Bmx"
+  },
+  "Diamond" : {
+    "periods" : [ {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 38.62223434448242
+    } ],
+    "item" : "Diamond"
+  },
+  "Dance" : {
+    "periods" : [ {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 38.482975006103516
+    } ],
+    "item" : "Dance"
+  },
+  "Working Out" : {
+    "periods" : [ {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 35.32957077026367
+    } ],
+    "item" : "Working Out"
+  },
+  "Mountain Bike" : {
+    "periods" : [ {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 35.04570770263672
+    } ],
+    "item" : "Mountain Bike"
+  },
+  "Flare" : {
+    "periods" : [ {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 34.36604309082031
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 45.929141998291016
+    } ],
+    "item" : "Flare"
+  },
+  "Smog" : {
+    "periods" : [ {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 34.15645217895508
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 41.4339714050293
+    } ],
+    "item" : "Smog"
+  },
+  "Jogging" : {
+    "periods" : [ {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 33.89155578613281
+    } ],
+    "item" : "Jogging"
+  },
+  "Handrail" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 99.3026123046875
+    } ],
+    "item" : "Handrail"
+  },
+  "Railing" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 58.57411575317383
+    } ],
+    "item" : "Railing"
+  },
+  "Lamp Post" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 57.511192321777344
+    } ],
+    "item" : "Lamp Post"
+  },
+  "Wall" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 57.49866485595703
+    } ],
+    "item" : "Wall"
+  },
+  "Staircase" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 51.94340133666992
+    } ],
+    "item" : "Staircase"
+  },
+  "Prison" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 45.990718841552734
+    } ],
+    "item" : "Prison"
+  },
+  "Water Tower" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 42.43375778198242
+    } ],
+    "item" : "Water Tower"
+  },
+  "Corner" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 39.88786697387695
+    } ],
+    "item" : "Corner"
+  },
+  "Mural" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 39.88340377807617
+    } ],
+    "item" : "Mural"
+  },
+  "Roof" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 38.8542366027832
+    } ],
+    "item" : "Roof"
+  },
+  "Utility Pole" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 38.72764587402344
+    } ],
+    "item" : "Utility Pole"
+  },
+  "Suburb" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 38.21426773071289
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 70.85266876220703
+    } ],
+    "item" : "Suburb"
+  },
+  "Basketball Court" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 37.90028762817383
+    } ],
+    "item" : "Basketball Court"
+  },
+  "Corridor" : {
+    "periods" : [ {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 46.12074661254883
+    } ],
+    "item" : "Corridor"
+  },
+  "Observatory" : {
+    "periods" : [ {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 45.07453155517578
+    } ],
+    "item" : "Observatory"
+  },
+  "Skyscraper" : {
+    "periods" : [ {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 42.137508392333984
+    } ],
+    "item" : "Skyscraper"
+  },
+  "Mountain" : {
+    "periods" : [ {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 41.30570983886719
+    } ],
+    "item" : "Mountain"
+  },
+  "Warehouse" : {
+    "periods" : [ {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 40.98469543457031
+    } ],
+    "item" : "Warehouse"
+  },
+  "Night" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 84.27473449707031
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 53.468170166015625
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 42.94725799560547
+    } ],
+    "item" : "Night"
+  },
+  "Outer Space" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 76.8065185546875
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 55.31003189086914
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 42.94725799560547
+    } ],
+    "item" : "Outer Space"
+  },
+  "Astronomy" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 76.8065185546875
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 57.96894073486328
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 42.94725799560547
+    } ],
+    "item" : "Astronomy"
+  },
+  "Moon" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 70.96089172363281
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 53.087982177734375
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 42.94725799560547
+    } ],
+    "item" : "Moon"
+  },
+  "Full Moon" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 51.39827346801758
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 41.586124420166016
+    } ],
+    "item" : "Full Moon"
+  },
+  "Bridegroom" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 47.50309371948242
+    } ],
+    "item" : "Bridegroom"
+  },
+  "Lunar Eclipse" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 47.46312713623047
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 44.70912170410156
+    } ],
+    "item" : "Lunar Eclipse"
+  },
+  "Beacon" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 42.412044525146484
+    } ],
+    "item" : "Beacon"
+  },
+  "Countryside" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 42.10475540161133
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 45.07207489013672
+    } ],
+    "item" : "Countryside"
+  },
+  "Lighthouse" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 41.95079803466797
+    } ],
+    "item" : "Lighthouse"
+  },
+  "Power Plant" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 41.22434616088867
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 41.09053421020508
+    } ],
+    "item" : "Power Plant"
+  },
+  "Storm" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 41.14127731323242
+    } ],
+    "item" : "Storm"
+  },
+  "Comet" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 41.06635665893555
+    } ],
+    "item" : "Comet"
+  },
+  "Asphalt" : {
+    "periods" : [ {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 99.99923706054688
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 92.1201171875
+    } ],
+    "item" : "Asphalt"
+  },
+  "Long Sleeve" : {
+    "periods" : [ {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 38.862972259521484
+    } ],
+    "item" : "Long Sleeve"
+  },
+  "Gravel" : {
+    "periods" : [ {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 33.01277160644531
+    } ],
+    "item" : "Gravel"
+  },
+  "Dirt Road" : {
+    "periods" : [ {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 33.01277160644531
+    } ],
+    "item" : "Dirt Road"
+  },
+  "Pavement" : {
+    "periods" : [ {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 31.740942001342773
+    } ],
+    "item" : "Pavement"
+  },
+  "Alloy Wheel" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 98.8980941772461
+    } ],
+    "item" : "Alloy Wheel"
+  },
+  "Spoke" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 98.8980941772461
+    } ],
+    "item" : "Spoke"
+  },
+  "Race Car" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 50.63797378540039
+    } ],
+    "item" : "Race Car"
+  },
+  "Police Car" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 41.63764190673828
+    } ],
+    "item" : "Police Car"
+  },
+  "Segway" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 40.03158187866211
+    } ],
+    "item" : "Segway"
+  },
+  "Car Dealership" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 39.43069839477539
+    } ],
+    "item" : "Car Dealership"
+  },
+  "Mirror" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 39.25575637817383
+    } ],
+    "item" : "Mirror"
+  },
+  "Hydrofoil" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 36.390933990478516
+    } ],
+    "item" : "Hydrofoil"
+  },
+  "Texture" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 35.801177978515625
+    } ],
+    "item" : "Texture"
+  },
+  "Garage" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 35.03252029418945
+    } ],
+    "item" : "Garage"
+  },
+  "Mustang" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 33.597503662109375
+    } ],
+    "item" : "Mustang"
+  },
+  "Awning" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 33.582672119140625
+    } ],
+    "item" : "Awning"
+  },
+  "Postal Office" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 32.342620849609375
+    } ],
+    "item" : "Postal Office"
+  },
+  "Brake" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 32.05691146850586
+    } ],
+    "item" : "Brake"
+  },
+  "Jeep" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 31.897064208984375
+    } ],
+    "item" : "Jeep"
+  },
+  "Automobile" : {
+    "periods" : [ {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 65.11036682128906
+    } ],
+    "item" : "Automobile"
+  },
+  "Traffic Light" : {
+    "periods" : [ {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 56.48991394042969
+    } ],
+    "item" : "Traffic Light"
+  },
+  "Light" : {
+    "periods" : [ {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 56.48991394042969
+    } ],
+    "item" : "Light"
+  },
+  "Factory" : {
+    "periods" : [ {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 51.25295639038086
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 59.550296783447266
+    } ],
+    "item" : "Factory"
+  },
+  "Refinery" : {
+    "periods" : [ {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 45.18699264526367
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 54.34424591064453
+    } ],
+    "item" : "Refinery"
+  },
+  "Overpass" : {
+    "periods" : [ {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 44.79579162597656
+    } ],
+    "item" : "Overpass"
+  },
+  "Sky" : {
+    "periods" : [ {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 82.95641326904297
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 79.31687927246094
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 53.28784942626953
+    } ],
+    "item" : "Sky"
+  },
+  "Sunset" : {
+    "periods" : [ {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 77.83885192871094
+    } ],
+    "item" : "Sunset"
+  },
+  "Sunrise" : {
+    "periods" : [ {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 62.250518798828125
+    } ],
+    "item" : "Sunrise"
+  },
+  "Clock Tower" : {
+    "periods" : [ {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 45.63228988647461
+    } ],
+    "item" : "Clock Tower"
+  },
+  "Bell Tower" : {
+    "periods" : [ {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 42.701515197753906
+    } ],
+    "item" : "Bell Tower"
+  },
+  "Dome" : {
+    "periods" : [ {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 42.026859283447266
+    } ],
+    "item" : "Dome"
+  },
+  "Horizon" : {
+    "periods" : [ {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 53.40069580078125
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 48.93601989746094
+    } ],
+    "item" : "Horizon"
+  },
+  "Azure Sky" : {
+    "periods" : [ {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 51.315250396728516
+    } ],
+    "item" : "Azure Sky"
+  },
+  "Cloud" : {
+    "periods" : [ {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 50.73275375366211
+    } ],
+    "item" : "Cloud"
+  },
+  "Aircraft" : {
+    "periods" : [ {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 48.47459030151367
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 47.530826568603516
+    } ],
+    "item" : "Aircraft"
+  },
+  "Airliner" : {
+    "periods" : [ {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 44.752967834472656
+    } ],
+    "item" : "Airliner"
+  },
+  "Eclipse" : {
+    "periods" : [ {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 44.70912170410156
+    } ],
+    "item" : "Eclipse"
+  },
+  "Radio Telescope" : {
+    "periods" : [ {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 43.63774108886719
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 41.845157623291016
+    } ],
+    "item" : "Radio Telescope"
+  },
+  "Telescope" : {
+    "periods" : [ {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 43.63774108886719
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 41.845157623291016
+    } ],
+    "item" : "Telescope"
+  },
+  "Sphere" : {
+    "periods" : [ {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 43.252559661865234
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 41.55113983154297
+    } ],
+    "item" : "Sphere"
+  },
+  "Gliding" : {
+    "periods" : [ {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 42.8204231262207
+    } ],
+    "item" : "Gliding"
+  },
+  "White Board" : {
+    "periods" : [ {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 42.965087890625
+    } ],
+    "item" : "White Board"
+  },
+  "Takeoff" : {
+    "periods" : [ {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 41.0832633972168
+    } ],
+    "item" : "Takeoff"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "automotive_road side assistance_1_14" : {
+    "periods" : [ {
+      "startMs" : 6140,
+      "endMs" : 35940,
+      "weight" : 0.555399
+    } ],
+    "item" : "automotive_road side assistance_1_14"
+  },
+  "healthy living_running and jogging_10_2_2" : {
+    "periods" : [ {
+      "startMs" : 6140,
+      "endMs" : 35940,
+      "weight" : 0.220326
+    } ],
+    "item" : "healthy living_running and jogging_10_2_2"
+  },
+  "books and literature_young adult literature_2_9" : {
+    "periods" : [ {
+      "startMs" : 6140,
+      "endMs" : 35940,
+      "weight" : 0.0754126
+    } ],
+    "item" : "books and literature_young adult literature_2_9"
+  },
+  "automotive_auto safety_1_7" : {
+    "periods" : [ {
+      "startMs" : 6140,
+      "endMs" : 35940,
+      "weight" : 0.0445135
+    } ],
+    "item" : "automotive_auto safety_1_7"
+  },
+  "automotive_concept cars_1_10_4" : {
+    "periods" : [ {
+      "startMs" : 6140,
+      "endMs" : 35940,
+      "weight" : 0.0192523
+    } ],
+    "item" : "automotive_concept cars_1_10_4"
+  },
+  "music and audio_classic hits_15_7" : {
+    "periods" : [ {
+      "startMs" : 36770,
+      "endMs" : 57590,
+      "weight" : 0.716798
+    } ],
+    "item" : "music and audio_classic hits_15_7"
+  },
+  "television_reality tv_27_8" : {
+    "periods" : [ {
+      "startMs" : 36770,
+      "endMs" : 57590,
+      "weight" : 0.0651415
+    } ],
+    "item" : "television_reality tv_27_8"
+  },
+  "business and finance_startups_3_1_16" : {
+    "periods" : [ {
+      "startMs" : 36770,
+      "endMs" : 57590,
+      "weight" : 0.0388444
+    } ],
+    "item" : "business and finance_startups_3_1_16"
+  },
+  "travel_budget travel_28_4_5" : {
+    "periods" : [ {
+      "startMs" : 36770,
+      "endMs" : 57590,
+      "weight" : 0.0385608
+    } ],
+    "item" : "travel_budget travel_28_4_5"
+  },
+  "automotive_driverless cars_1_10_5" : {
+    "periods" : [ {
+      "startMs" : 36770,
+      "endMs" : 57590,
+      "weight" : 0.0226448
+    }, {
+      "startMs" : 57870,
+      "endMs" : 60780,
+      "weight" : 0.613978
+    } ],
+    "item" : "automotive_driverless cars_1_10_5"
+  },
+  "automotive_auto navigation systems_1_9_2" : {
+    "periods" : [ {
+      "startMs" : 57870,
+      "endMs" : 60780,
+      "weight" : 0.379067
+    } ],
+    "item" : "automotive_auto navigation systems_1_9_2"
+  }
+}

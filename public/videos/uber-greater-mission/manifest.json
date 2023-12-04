@@ -1,0 +1,99 @@
+{
+  "taskId" : "media-scan-0cd551b6/93e54d46-3be3-49f5-a811-f95c6b7013ad",
+  "kind" : "VIDEO",
+  "location" : {
+    "kind" : "DRIVE",
+    "payloadEncoding" : null,
+    "payload" : null,
+    "path" : null,
+    "spec" : "drv://s3/matny/UBER - Greater Mission.mp4"
+  },
+  "user" : {
+    "tenantId" : "alsterlabs",
+    "userId" : "rama"
+  },
+  "workspace" : "alsterlabs/rama/0cd551b6",
+  "sharespace" : "home/alsterlabs/rama",
+  "status" : "SUCCEEDED",
+  "failureKind" : null,
+  "failureMessage" : null,
+  "artifacts" : [ {
+    "kind" : "VISUAL_CELEB_TIMELINE_INDEX",
+    "shareSpaceLocation" : "0cd551b6/export/main/celeb_timeline_index.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/celeb_timeline_index.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/celeb_timeline_index.json",
+    "entries" : 0
+  }, {
+    "kind" : "VISUAL_TEXT_TIMELINE_INDEX",
+    "shareSpaceLocation" : "0cd551b6/export/main/visual_text_timeline_index.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/visual_text_timeline_index.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/visual_text_timeline_index.json",
+    "entries" : 1
+  }, {
+    "kind" : "VISUAL_TEXT_TIMELINE",
+    "shareSpaceLocation" : "0cd551b6/export/main/visual_text_timeline.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/visual_text_timeline.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/visual_text_timeline.json",
+    "entries" : 1
+  }, {
+    "kind" : "SEGMENT_TIMELINE",
+    "shareSpaceLocation" : "0cd551b6/export/main/visual_segment_timeline.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/visual_segment_timeline.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/visual_segment_timeline.json",
+    "entries" : 46
+  }, {
+    "kind" : "VISUAL_IAB_TIMELINE_INDEX",
+    "shareSpaceLocation" : "0cd551b6/export/main/visual_iab_timeline_index.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/visual_iab_timeline_index.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/visual_iab_timeline_index.json",
+    "entries" : 36
+  }, {
+    "kind" : "VISUAL_OBJECT_TIMELINE_INDEX",
+    "shareSpaceLocation" : "0cd551b6/export/main/object_timeline_index.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/object_timeline_index.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/object_timeline_index.json",
+    "entries" : 346
+  }, {
+    "kind" : "VISUAL_MODERATION_TIMELINE_INDEX",
+    "shareSpaceLocation" : "0cd551b6/export/main/moderation_timeline_index.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/moderation_timeline_index.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/moderation_timeline_index.json",
+    "entries" : 0
+  }, {
+    "kind" : "AUDIO_IAB_TIMELINE_INDEX",
+    "shareSpaceLocation" : "0cd551b6/export/main/audio_iab_timeline_index.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/audio_iab_timeline_index.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/audio_iab_timeline_index.json",
+    "entries" : 11
+  }, {
+    "kind" : "AUDIO_SENTIMENT_TIMELINE_INDEX",
+    "shareSpaceLocation" : "0cd551b6/export/main/audio_sentiment_timeline_index.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/audio_sentiment_timeline_index.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/audio_sentiment_timeline_index.json",
+    "entries" : 0
+  }, {
+    "kind" : "AUDIO_LANGUAGE_LABELS",
+    "shareSpaceLocation" : "0cd551b6/export/main/audio_language_labels.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/audio_language_labels.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/audio_language_labels.json",
+    "entries" : 0
+  }, {
+    "kind" : "AUDIO_DIALECT_LABELS",
+    "shareSpaceLocation" : "0cd551b6/export/main/audio_dialect_labels.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/audio_dialect_labels.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/audio_dialect_labels.json",
+    "entries" : 0
+  }, {
+    "kind" : "AUDIO_TEXT_TIMELINE_INDEX",
+    "shareSpaceLocation" : "0cd551b6/export/main/audio_text_timeline_index.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/audio_text_timeline_index.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/audio_text_timeline_index.json",
+    "entries" : 79
+  }, {
+    "kind" : "AUDIO_TEXT_TIMELINE",
+    "shareSpaceLocation" : "0cd551b6/export/main/audio_text_timeline.json",
+    "driveUrl" : "drv://alsterlabs.rama.home/0cd551b6/export/main/audio_text_timeline.json",
+    "shareSpaceUrl" : "https://admin-blue.matny.io/media-insights-engine/home/alsterlabs/rama/0cd551b6/export/main/audio_text_timeline.json",
+    "entries" : 7
+  } ]
+}

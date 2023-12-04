@@ -1,0 +1,362 @@
+{
+  "technology and computing_computer peripherals_26_3_2" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 0.502581
+    } ],
+    "item" : "technology and computing_computer peripherals_26_3_2"
+  },
+  "technology and computing_tablets and e readers_26_4_4" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 0.227396
+    } ],
+    "item" : "technology and computing_tablets and e readers_26_4_4"
+  },
+  "technology and computing_photo editing software_26_3_3_10" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 0.167507
+    } ],
+    "item" : "technology and computing_photo editing software_26_3_3_10"
+  },
+  "technology and computing_desktops_26_3_5" : {
+    "periods" : [ {
+      "startMs" : 0,
+      "endMs" : 3000,
+      "weight" : 0.099423
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 0.0440499
+    } ],
+    "item" : "technology and computing_desktops_26_3_5"
+  },
+  "travel_north america travel_28_2_5" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 0.855636
+    } ],
+    "item" : "travel_north america travel_28_2_5"
+  },
+  "home and garden_home entertaining_12_3" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 0.0425097
+    } ],
+    "item" : "home and garden_home entertaining_12_3"
+  },
+  "home and garden_outdoor decorating_12_9" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 0.0347946
+    } ],
+    "item" : "home and garden_outdoor decorating_12_9"
+  },
+  "home and garden_home appliances_12_2" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 0.0168379
+    } ],
+    "item" : "home and garden_home appliances_12_2"
+  },
+  "home and garden_smart home_12_11" : {
+    "periods" : [ {
+      "startMs" : 3000,
+      "endMs" : 6000,
+      "weight" : 0.0117456
+    } ],
+    "item" : "home and garden_smart home_12_11"
+  },
+  "sports_walking_24_47" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 0.795738
+    }, {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 0.793159
+    }, {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 0.813694
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 0.0598494
+    }, {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 0.935852
+    }, {
+      "startMs" : 57000,
+      "endMs" : 60000,
+      "weight" : 0.99999
+    } ],
+    "item" : "sports_walking_24_47"
+  },
+  "sports_cycling_24_14" : {
+    "periods" : [ {
+      "startMs" : 6000,
+      "endMs" : 9000,
+      "weight" : 0.204262
+    }, {
+      "startMs" : 45000,
+      "endMs" : 48000,
+      "weight" : 0.93997
+    } ],
+    "item" : "sports_cycling_24_14"
+  },
+  "style and fashion_womens outerwear_25_10_2_5" : {
+    "periods" : [ {
+      "startMs" : 9000,
+      "endMs" : 12000,
+      "weight" : 0.999878
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 0.171825
+    } ],
+    "item" : "style and fashion_womens outerwear_25_10_2_5"
+  },
+  "style and fashion_womens hats and scarves_25_10_1_3" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 0.913742
+    } ],
+    "item" : "style and fashion_womens hats and scarves_25_10_1_3"
+  },
+  "style and fashion_mens formal wear_25_7_2_3" : {
+    "periods" : [ {
+      "startMs" : 12000,
+      "endMs" : 15000,
+      "weight" : 0.0630691
+    } ],
+    "item" : "style and fashion_mens formal wear_25_7_2_3"
+  },
+  "events and attractions_zoos and aquariums_6_25" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 0.985863
+    } ],
+    "item" : "events and attractions_zoos and aquariums_6_25"
+  },
+  "news and politics_crime_16_1" : {
+    "periods" : [ {
+      "startMs" : 15000,
+      "endMs" : 18000,
+      "weight" : 0.0114237
+    } ],
+    "item" : "news and politics_crime_16_1"
+  },
+  "technology and computing_smartphones_26_4_3" : {
+    "periods" : [ {
+      "startMs" : 18000,
+      "endMs" : 21000,
+      "weight" : 0.989942
+    } ],
+    "item" : "technology and computing_smartphones_26_4_3"
+  },
+  "automotive_concept cars_1_10_4" : {
+    "periods" : [ {
+      "startMs" : 21000,
+      "endMs" : 24000,
+      "weight" : 0.186749
+    }, {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 0.116285
+    } ],
+    "item" : "automotive_concept cars_1_10_4"
+  },
+  "style and fashion_womens handbags and wallets_25_10_1_2" : {
+    "periods" : [ {
+      "startMs" : 24000,
+      "endMs" : 27000,
+      "weight" : 0.999996
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 0.0663944
+    } ],
+    "item" : "style and fashion_womens handbags and wallets_25_10_1_2"
+  },
+  "automotive_driverless cars_1_10_5" : {
+    "periods" : [ {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 0.491543
+    }, {
+      "startMs" : 63000,
+      "endMs" : 66000,
+      "weight" : 0.999151
+    } ],
+    "item" : "automotive_driverless cars_1_10_5"
+  },
+  "automotive_auto repair_1_6" : {
+    "periods" : [ {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 0.300817
+    } ],
+    "item" : "automotive_auto repair_1_6"
+  },
+  "events and attractions_malls and shopping centers_6_12" : {
+    "periods" : [ {
+      "startMs" : 27000,
+      "endMs" : 30000,
+      "weight" : 0.0855363
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 0.701889
+    } ],
+    "item" : "events and attractions_malls and shopping centers_6_12"
+  },
+  "events and attractions_parks and nature_6_18" : {
+    "periods" : [ {
+      "startMs" : 30000,
+      "endMs" : 33000,
+      "weight" : 0.994234
+    }, {
+      "startMs" : 51000,
+      "endMs" : 54000,
+      "weight" : 0.991149
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 0.025548
+    } ],
+    "item" : "events and attractions_parks and nature_6_18"
+  },
+  "automotive_auto safety_1_7" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 0.149939
+    } ],
+    "item" : "automotive_auto safety_1_7"
+  },
+  "events and attractions_theater venues and events_6_24" : {
+    "periods" : [ {
+      "startMs" : 33000,
+      "endMs" : 36000,
+      "weight" : 0.029319
+    } ],
+    "item" : "events and attractions_theater venues and events_6_24"
+  },
+  "events and attractions_concerts and music events_6_8" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 0.906786
+    }, {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 0.308456
+    } ],
+    "item" : "events and attractions_concerts and music events_6_8"
+  },
+  "sports_cheerleading_24_11" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 0.0598327
+    } ],
+    "item" : "sports_cheerleading_24_11"
+  },
+  "healthy living_smoking cessation_10_7_3" : {
+    "periods" : [ {
+      "startMs" : 36000,
+      "endMs" : 39000,
+      "weight" : 0.0301983
+    } ],
+    "item" : "healthy living_smoking cessation_10_7_3"
+  },
+  "pets_birds_18_1" : {
+    "periods" : [ {
+      "startMs" : 39000,
+      "endMs" : 42000,
+      "weight" : 1.0
+    } ],
+    "item" : "pets_birds_18_1"
+  },
+  "style and fashion_mens outerwear_25_7_2_4" : {
+    "periods" : [ {
+      "startMs" : 42000,
+      "endMs" : 45000,
+      "weight" : 0.43858
+    } ],
+    "item" : "style and fashion_mens outerwear_25_7_2_4"
+  },
+  "home and garden_indoor environmental quality_12_6" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 0.0287312
+    }, {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 0.174057
+    } ],
+    "item" : "home and garden_indoor environmental quality_12_6"
+  },
+  "business and finance_civil engineering industry_3_3_7" : {
+    "periods" : [ {
+      "startMs" : 48000,
+      "endMs" : 51000,
+      "weight" : 0.027022
+    } ],
+    "item" : "business and finance_civil engineering industry_3_3_7"
+  },
+  "science_space and astronomy_22_8" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 0.985781
+    }, {
+      "startMs" : 69000,
+      "endMs" : 72000,
+      "weight" : 1.0
+    }, {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 0.955949
+    } ],
+    "item" : "science_space and astronomy_22_8"
+  },
+  "business and finance_green solutions_3_1_9" : {
+    "periods" : [ {
+      "startMs" : 54000,
+      "endMs" : 57000,
+      "weight" : 0.0134979
+    } ],
+    "item" : "business and finance_green solutions_3_1_9"
+  },
+  "automotive_hatchback_1_1_5" : {
+    "periods" : [ {
+      "startMs" : 60000,
+      "endMs" : 63000,
+      "weight" : 0.999163
+    } ],
+    "item" : "automotive_hatchback_1_1_5"
+  },
+  "home and garden_landscaping_12_8" : {
+    "periods" : [ {
+      "startMs" : 66000,
+      "endMs" : 69000,
+      "weight" : 0.0790014
+    } ],
+    "item" : "home and garden_landscaping_12_8"
+  }
+}

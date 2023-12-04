@@ -1,0 +1,10 @@
+{
+  "Uber" : {
+    "periods" : [ {
+      "startMs" : 72000,
+      "endMs" : 75000,
+      "weight" : 99.95809936523438
+    } ],
+    "item" : "Uber"
+  }
+}

@@ -1,0 +1,782 @@
+{
+  "You" : {
+    "periods" : [ {
+      "startMs" : 6140,
+      "endMs" : 6360,
+      "weight" : 1.0
+    } ],
+    "item" : "You"
+  },
+  "know" : {
+    "periods" : [ {
+      "startMs" : 6360,
+      "endMs" : 6480,
+      "weight" : 1.0
+    } ],
+    "item" : "know"
+  },
+  "when" : {
+    "periods" : [ {
+      "startMs" : 6480,
+      "endMs" : 6610,
+      "weight" : 0.9983
+    } ],
+    "item" : "when"
+  },
+  "they" : {
+    "periods" : [ {
+      "startMs" : 6610,
+      "endMs" : 6720,
+      "weight" : 1.0
+    } ],
+    "item" : "they"
+  },
+  "say" : {
+    "periods" : [ {
+      "startMs" : 6720,
+      "endMs" : 7380,
+      "weight" : 1.0
+    } ],
+    "item" : "say"
+  },
+  "it's" : {
+    "periods" : [ {
+      "startMs" : 7540,
+      "endMs" : 7750,
+      "weight" : 0.9974
+    }, {
+      "startMs" : 8580,
+      "endMs" : 8790,
+      "weight" : 1.0
+    }, {
+      "startMs" : 12940,
+      "endMs" : 13120,
+      "weight" : 0.9842
+    } ],
+    "item" : "it's"
+  },
+  "not" : {
+    "periods" : [ {
+      "startMs" : 7750,
+      "endMs" : 7930,
+      "weight" : 1.0
+    }, {
+      "startMs" : 13120,
+      "endMs" : 13310,
+      "weight" : 1.0
+    }, {
+      "startMs" : 15710,
+      "endMs" : 16030,
+      "weight" : 1.0
+    }, {
+      "startMs" : 26620,
+      "endMs" : 26860,
+      "weight" : 1.0
+    }, {
+      "startMs" : 54650,
+      "endMs" : 54930,
+      "weight" : 1.0
+    } ],
+    "item" : "not"
+  },
+  "a" : {
+    "periods" : [ {
+      "startMs" : 7930,
+      "endMs" : 7990,
+      "weight" : 1.0
+    }, {
+      "startMs" : 8790,
+      "endMs" : 8850,
+      "weight" : 1.0
+    }, {
+      "startMs" : 13310,
+      "endMs" : 13390,
+      "weight" : 1.0
+    } ],
+    "item" : "a"
+  },
+  "sprint" : {
+    "periods" : [ {
+      "startMs" : 7990,
+      "endMs" : 8570,
+      "weight" : 1.0
+    } ],
+    "item" : "sprint"
+  },
+  "marathon" : {
+    "periods" : [ {
+      "startMs" : 8850,
+      "endMs" : 9680,
+      "weight" : 1.0
+    } ],
+    "item" : "marathon"
+  },
+  "actually" : {
+    "periods" : [ {
+      "startMs" : 11420,
+      "endMs" : 12080,
+      "weight" : 1.0
+    } ],
+    "item" : "actually"
+  },
+  "we" : {
+    "periods" : [ {
+      "startMs" : 12090,
+      "endMs" : 12680,
+      "weight" : 1.0
+    }, {
+      "startMs" : 51550,
+      "endMs" : 51690,
+      "weight" : 0.991
+    } ],
+    "item" : "we"
+  },
+  "think" : {
+    "periods" : [ {
+      "startMs" : 12680,
+      "endMs" : 12940,
+      "weight" : 1.0
+    } ],
+    "item" : "think"
+  },
+  "race" : {
+    "periods" : [ {
+      "startMs" : 13390,
+      "endMs" : 13660,
+      "weight" : 1.0
+    } ],
+    "item" : "race"
+  },
+  "at" : {
+    "periods" : [ {
+      "startMs" : 13660,
+      "endMs" : 13770,
+      "weight" : 1.0
+    } ],
+    "item" : "at"
+  },
+  "all" : {
+    "periods" : [ {
+      "startMs" : 13770,
+      "endMs" : 14010,
+      "weight" : 1.0
+    } ],
+    "item" : "all"
+  },
+  "because" : {
+    "periods" : [ {
+      "startMs" : 15160,
+      "endMs" : 15560,
+      "weight" : 1.0
+    } ],
+    "item" : "because"
+  },
+  "we're" : {
+    "periods" : [ {
+      "startMs" : 15560,
+      "endMs" : 15710,
+      "weight" : 0.9917
+    }, {
+      "startMs" : 19830,
+      "endMs" : 20000,
+      "weight" : 0.9906
+    }, {
+      "startMs" : 26450,
+      "endMs" : 26620,
+      "weight" : 0.9801
+    }, {
+      "startMs" : 31290,
+      "endMs" : 31540,
+      "weight" : 0.9843
+    }, {
+      "startMs" : 54310,
+      "endMs" : 54650,
+      "weight" : 0.8863
+    } ],
+    "item" : "we're"
+  },
+  "just" : {
+    "periods" : [ {
+      "startMs" : 16030,
+      "endMs" : 16270,
+      "weight" : 1.0
+    }, {
+      "startMs" : 54940,
+      "endMs" : 55260,
+      "weight" : 1.0
+    } ],
+    "item" : "just"
+  },
+  "working" : {
+    "periods" : [ {
+      "startMs" : 16270,
+      "endMs" : 16630,
+      "weight" : 1.0
+    }, {
+      "startMs" : 20000,
+      "endMs" : 20410,
+      "weight" : 1.0
+    } ],
+    "item" : "working"
+  },
+  "on" : {
+    "periods" : [ {
+      "startMs" : 16630,
+      "endMs" : 16740,
+      "weight" : 1.0
+    }, {
+      "startMs" : 20410,
+      "endMs" : 20650,
+      "weight" : 1.0
+    } ],
+    "item" : "on"
+  },
+  "the" : {
+    "periods" : [ {
+      "startMs" : 16740,
+      "endMs" : 16830,
+      "weight" : 1.0
+    }, {
+      "startMs" : 18250,
+      "endMs" : 18350,
+      "weight" : 1.0
+    } ],
+    "item" : "the"
+  },
+  "next" : {
+    "periods" : [ {
+      "startMs" : 16830,
+      "endMs" : 17170,
+      "weight" : 1.0
+    } ],
+    "item" : "next"
+  },
+  "shiny" : {
+    "periods" : [ {
+      "startMs" : 17170,
+      "endMs" : 17430,
+      "weight" : 1.0
+    } ],
+    "item" : "shiny"
+  },
+  "piece" : {
+    "periods" : [ {
+      "startMs" : 17440,
+      "endMs" : 17710,
+      "weight" : 1.0
+    } ],
+    "item" : "piece"
+  },
+  "of" : {
+    "periods" : [ {
+      "startMs" : 17710,
+      "endMs" : 17810,
+      "weight" : 1.0
+    }, {
+      "startMs" : 18630,
+      "endMs" : 18750,
+      "weight" : 1.0
+    } ],
+    "item" : "of"
+  },
+  "tech" : {
+    "periods" : [ {
+      "startMs" : 17820,
+      "endMs" : 18100,
+      "weight" : 1.0
+    }, {
+      "startMs" : 18760,
+      "endMs" : 19200,
+      "weight" : 0.9633
+    } ],
+    "item" : "tech"
+  },
+  "for" : {
+    "periods" : [ {
+      "startMs" : 18110,
+      "endMs" : 18250,
+      "weight" : 1.0
+    }, {
+      "startMs" : 35150,
+      "endMs" : 35330,
+      "weight" : 1.0
+    } ],
+    "item" : "for"
+  },
+  "sake" : {
+    "periods" : [ {
+      "startMs" : 18350,
+      "endMs" : 18630,
+      "weight" : 1.0
+    } ],
+    "item" : "sake"
+  },
+  "What" : {
+    "periods" : [ {
+      "startMs" : 19210,
+      "endMs" : 19820,
+      "weight" : 1.0
+    } ],
+    "item" : "What"
+  },
+  "will" : {
+    "periods" : [ {
+      "startMs" : 20650,
+      "endMs" : 20750,
+      "weight" : 0.7011
+    } ],
+    "item" : "will"
+  },
+  "go" : {
+    "periods" : [ {
+      "startMs" : 20750,
+      "endMs" : 20930,
+      "weight" : 1.0
+    } ],
+    "item" : "go"
+  },
+  "onto" : {
+    "periods" : [ {
+      "startMs" : 20930,
+      "endMs" : 21230,
+      "weight" : 0.435
+    } ],
+    "item" : "onto"
+  },
+  "roads" : {
+    "periods" : [ {
+      "startMs" : 21230,
+      "endMs" : 21940,
+      "weight" : 0.8876
+    }, {
+      "startMs" : 23080,
+      "endMs" : 23570,
+      "weight" : 0.9989
+    }, {
+      "startMs" : 34240,
+      "endMs" : 34610,
+      "weight" : 1.0
+    } ],
+    "item" : "roads"
+  },
+  "that" : {
+    "periods" : [ {
+      "startMs" : 23570,
+      "endMs" : 23730,
+      "weight" : 1.0
+    }, {
+      "startMs" : 56250,
+      "endMs" : 56390,
+      "weight" : 1.0
+    }, {
+      "startMs" : 59850,
+      "endMs" : 60000,
+      "weight" : 0.9959
+    } ],
+    "item" : "that"
+  },
+  "are" : {
+    "periods" : [ {
+      "startMs" : 23730,
+      "endMs" : 23810,
+      "weight" : 1.0
+    } ],
+    "item" : "are"
+  },
+  "meant" : {
+    "periods" : [ {
+      "startMs" : 23810,
+      "endMs" : 24030,
+      "weight" : 1.0
+    } ],
+    "item" : "meant"
+  },
+  "to" : {
+    "periods" : [ {
+      "startMs" : 24030,
+      "endMs" : 24140,
+      "weight" : 1.0
+    }, {
+      "startMs" : 33490,
+      "endMs" : 33680,
+      "weight" : 1.0
+    }, {
+      "startMs" : 37800,
+      "endMs" : 37900,
+      "weight" : 1.0
+    }, {
+      "startMs" : 42900,
+      "endMs" : 42990,
+      "weight" : 0.9986
+    }, {
+      "startMs" : 44160,
+      "endMs" : 44330,
+      "weight" : 1.0
+    } ],
+    "item" : "to"
+  },
+  "be" : {
+    "periods" : [ {
+      "startMs" : 24150,
+      "endMs" : 24290,
+      "weight" : 1.0
+    } ],
+    "item" : "be"
+  },
+  "shared" : {
+    "periods" : [ {
+      "startMs" : 24290,
+      "endMs" : 24820,
+      "weight" : 1.0
+    } ],
+    "item" : "shared"
+  },
+  "That's" : {
+    "periods" : [ {
+      "startMs" : 26050,
+      "endMs" : 26310,
+      "weight" : 0.9977
+    } ],
+    "item" : "That's"
+  },
+  "why" : {
+    "periods" : [ {
+      "startMs" : 26310,
+      "endMs" : 26450,
+      "weight" : 1.0
+    } ],
+    "item" : "why"
+  },
+  "driven" : {
+    "periods" : [ {
+      "startMs" : 26860,
+      "endMs" : 27290,
+      "weight" : 1.0
+    }, {
+      "startMs" : 31540,
+      "endMs" : 31890,
+      "weight" : 1.0
+    } ],
+    "item" : "driven"
+  },
+  "by" : {
+    "periods" : [ {
+      "startMs" : 27290,
+      "endMs" : 27530,
+      "weight" : 1.0
+    }, {
+      "startMs" : 31890,
+      "endMs" : 32030,
+      "weight" : 1.0
+    }, {
+      "startMs" : 45700,
+      "endMs" : 46130,
+      "weight" : 0.9984
+    } ],
+    "item" : "by"
+  },
+  "deadlines" : {
+    "periods" : [ {
+      "startMs" : 27540,
+      "endMs" : 28360,
+      "weight" : 1.0
+    } ],
+    "item" : "deadlines"
+  },
+  "or" : {
+    "periods" : [ {
+      "startMs" : 28360,
+      "endMs" : 28510,
+      "weight" : 1.0
+    } ],
+    "item" : "or"
+  },
+  "headlines" : {
+    "periods" : [ {
+      "startMs" : 28520,
+      "endMs" : 29170,
+      "weight" : 0.9426
+    } ],
+    "item" : "headlines"
+  },
+  "Instead" : {
+    "periods" : [ {
+      "startMs" : 30360,
+      "endMs" : 31080,
+      "weight" : 1.0
+    } ],
+    "item" : "Instead"
+  },
+  "something" : {
+    "periods" : [ {
+      "startMs" : 32030,
+      "endMs" : 32450,
+      "weight" : 1.0
+    } ],
+    "item" : "something"
+  },
+  "else" : {
+    "periods" : [ {
+      "startMs" : 32450,
+      "endMs" : 32920,
+      "weight" : 1.0
+    } ],
+    "item" : "else"
+  },
+  "help" : {
+    "periods" : [ {
+      "startMs" : 33680,
+      "endMs" : 34020,
+      "weight" : 1.0
+    } ],
+    "item" : "help"
+  },
+  "make" : {
+    "periods" : [ {
+      "startMs" : 34020,
+      "endMs" : 34240,
+      "weight" : 1.0
+    }, {
+      "startMs" : 42990,
+      "endMs" : 43190,
+      "weight" : 1.0
+    } ],
+    "item" : "make"
+  },
+  "safer" : {
+    "periods" : [ {
+      "startMs" : 34610,
+      "endMs" : 35150,
+      "weight" : 1.0
+    } ],
+    "item" : "safer"
+  },
+  "everyone" : {
+    "periods" : [ {
+      "startMs" : 35330,
+      "endMs" : 35940,
+      "weight" : 1.0
+    } ],
+    "item" : "everyone"
+  },
+  "However" : {
+    "periods" : [ {
+      "startMs" : 36770,
+      "endMs" : 37370,
+      "weight" : 1.0
+    } ],
+    "item" : "However"
+  },
+  "you" : {
+    "periods" : [ {
+      "startMs" : 37370,
+      "endMs" : 37510,
+      "weight" : 1.0
+    } ],
+    "item" : "you"
+  },
+  "choose" : {
+    "periods" : [ {
+      "startMs" : 37510,
+      "endMs" : 37800,
+      "weight" : 1.0
+    } ],
+    "item" : "choose"
+  },
+  "get" : {
+    "periods" : [ {
+      "startMs" : 37900,
+      "endMs" : 38080,
+      "weight" : 1.0
+    }, {
+      "startMs" : 51910,
+      "endMs" : 52090,
+      "weight" : 1.0
+    } ],
+    "item" : "get"
+  },
+  "around" : {
+    "periods" : [ {
+      "startMs" : 38080,
+      "endMs" : 38450,
+      "weight" : 0.9998
+    }, {
+      "startMs" : 44540,
+      "endMs" : 44880,
+      "weight" : 1.0
+    } ],
+    "item" : "around"
+  },
+  "and" : {
+    "periods" : [ {
+      "startMs" : 42690,
+      "endMs" : 42900,
+      "weight" : 1.0
+    } ],
+    "item" : "and"
+  },
+  "it" : {
+    "periods" : [ {
+      "startMs" : 43190,
+      "endMs" : 43300,
+      "weight" : 1.0
+    } ],
+    "item" : "it"
+  },
+  "easier" : {
+    "periods" : [ {
+      "startMs" : 43310,
+      "endMs" : 43950,
+      "weight" : 1.0
+    } ],
+    "item" : "easier"
+  },
+  "move" : {
+    "periods" : [ {
+      "startMs" : 44330,
+      "endMs" : 44540,
+      "weight" : 1.0
+    } ],
+    "item" : "move"
+  },
+  "cities" : {
+    "periods" : [ {
+      "startMs" : 44880,
+      "endMs" : 45460,
+      "weight" : 0.9986
+    } ],
+    "item" : "cities"
+  },
+  "bringing" : {
+    "periods" : [ {
+      "startMs" : 46130,
+      "endMs" : 46570,
+      "weight" : 1.0
+    } ],
+    "item" : "bringing"
+  },
+  "more" : {
+    "periods" : [ {
+      "startMs" : 46570,
+      "endMs" : 46860,
+      "weight" : 0.9997
+    } ],
+    "item" : "more"
+  },
+  "rides" : {
+    "periods" : [ {
+      "startMs" : 46860,
+      "endMs" : 47420,
+      "weight" : 0.9981
+    } ],
+    "item" : "rides"
+  },
+  "No" : {
+    "periods" : [ {
+      "startMs" : 49460,
+      "endMs" : 49530,
+      "weight" : 1.0
+    } ],
+    "item" : "No"
+  },
+  "matter" : {
+    "periods" : [ {
+      "startMs" : 49530,
+      "endMs" : 49810,
+      "weight" : 1.0
+    } ],
+    "item" : "matter"
+  },
+  "whether" : {
+    "periods" : [ {
+      "startMs" : 49810,
+      "endMs" : 50160,
+      "weight" : 1.0
+    } ],
+    "item" : "whether"
+  },
+  "won't" : {
+    "periods" : [ {
+      "startMs" : 51690,
+      "endMs" : 51910,
+      "weight" : 0.9995
+    } ],
+    "item" : "won't"
+  },
+  "there" : {
+    "periods" : [ {
+      "startMs" : 52100,
+      "endMs" : 52350,
+      "weight" : 0.9927
+    } ],
+    "item" : "there"
+  },
+  "creating" : {
+    "periods" : [ {
+      "startMs" : 55260,
+      "endMs" : 55750,
+      "weight" : 1.0
+    }, {
+      "startMs" : 58150,
+      "endMs" : 58690,
+      "weight" : 1.0
+    } ],
+    "item" : "creating"
+  },
+  "cars" : {
+    "periods" : [ {
+      "startMs" : 55760,
+      "endMs" : 56250,
+      "weight" : 1.0
+    }, {
+      "startMs" : 59390,
+      "endMs" : 59850,
+      "weight" : 1.0
+    } ],
+    "item" : "cars"
+  },
+  "drive" : {
+    "periods" : [ {
+      "startMs" : 56390,
+      "endMs" : 56770,
+      "weight" : 1.0
+    }, {
+      "startMs" : 60010,
+      "endMs" : 60780,
+      "weight" : 0.9894
+    } ],
+    "item" : "drive"
+  },
+  "themselves" : {
+    "periods" : [ {
+      "startMs" : 56780,
+      "endMs" : 57590,
+      "weight" : 1.0
+    } ],
+    "item" : "themselves"
+  },
+  "We're" : {
+    "periods" : [ {
+      "startMs" : 57870,
+      "endMs" : 58150,
+      "weight" : 0.2616
+    } ],
+    "item" : "We're"
+  },
+  "self" : {
+    "periods" : [ {
+      "startMs" : 58690,
+      "endMs" : 59010,
+      "weight" : 1.0
+    } ],
+    "item" : "self"
+  },
+  "driving" : {
+    "periods" : [ {
+      "startMs" : 59010,
+      "endMs" : 59390,
+      "weight" : 1.0
+    } ],
+    "item" : "driving"
+  }
+}

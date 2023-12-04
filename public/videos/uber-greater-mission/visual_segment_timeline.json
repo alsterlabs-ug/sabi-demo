@@ -1,0 +1,415 @@
+[ {
+  "startMs" : 0,
+  "endMs" : 72405,
+  "item" : {
+    "index" : null,
+    "type" : "TECHNICAL_CUE",
+    "cueType" : "Content",
+    "weight" : 100.0
+  }
+}, {
+  "startMs" : 0,
+  "endMs" : 750,
+  "item" : {
+    "index" : 0,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.89662
+  }
+}, {
+  "startMs" : 792,
+  "endMs" : 1918,
+  "item" : {
+    "index" : 1,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 97.64324
+  }
+}, {
+  "startMs" : 1960,
+  "endMs" : 2002,
+  "item" : {
+    "index" : 2,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 97.64324
+  }
+}, {
+  "startMs" : 2043,
+  "endMs" : 2085,
+  "item" : {
+    "index" : 3,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 95.03075
+  }
+}, {
+  "startMs" : 2127,
+  "endMs" : 3086,
+  "item" : {
+    "index" : 4,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 95.03075
+  }
+}, {
+  "startMs" : 3128,
+  "endMs" : 5255,
+  "item" : {
+    "index" : 5,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 82.579346
+  }
+}, {
+  "startMs" : 5296,
+  "endMs" : 5672,
+  "item" : {
+    "index" : 6,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 82.579346
+  }
+}, {
+  "startMs" : 5714,
+  "endMs" : 7799,
+  "item" : {
+    "index" : 7,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 98.580246
+  }
+}, {
+  "startMs" : 7841,
+  "endMs" : 10593,
+  "item" : {
+    "index" : 8,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 98.580246
+  }
+}, {
+  "startMs" : 10635,
+  "endMs" : 11344,
+  "item" : {
+    "index" : 9,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 81.30454
+  }
+}, {
+  "startMs" : 11386,
+  "endMs" : 12762,
+  "item" : {
+    "index" : 10,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 81.30454
+  }
+}, {
+  "startMs" : 12804,
+  "endMs" : 13638,
+  "item" : {
+    "index" : 11,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 93.5265
+  }
+}, {
+  "startMs" : 13680,
+  "endMs" : 15140,
+  "item" : {
+    "index" : 12,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.72692
+  }
+}, {
+  "startMs" : 15181,
+  "endMs" : 16474,
+  "item" : {
+    "index" : 13,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.78855
+  }
+}, {
+  "startMs" : 16516,
+  "endMs" : 18977,
+  "item" : {
+    "index" : 14,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 88.15619
+  }
+}, {
+  "startMs" : 19019,
+  "endMs" : 21271,
+  "item" : {
+    "index" : 15,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 88.15619
+  }
+}, {
+  "startMs" : 21312,
+  "endMs" : 24566,
+  "item" : {
+    "index" : 16,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.875305
+  }
+}, {
+  "startMs" : 24607,
+  "endMs" : 26359,
+  "item" : {
+    "index" : 17,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.28231
+  }
+}, {
+  "startMs" : 26401,
+  "endMs" : 28611,
+  "item" : {
+    "index" : 18,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.28231
+  }
+}, {
+  "startMs" : 28653,
+  "endMs" : 29904,
+  "item" : {
+    "index" : 19,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.52981
+  }
+}, {
+  "startMs" : 29946,
+  "endMs" : 34075,
+  "item" : {
+    "index" : 20,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.60126
+  }
+}, {
+  "startMs" : 34117,
+  "endMs" : 36703,
+  "item" : {
+    "index" : 21,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.60126
+  }
+}, {
+  "startMs" : 36745,
+  "endMs" : 38955,
+  "item" : {
+    "index" : 22,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.87362
+  }
+}, {
+  "startMs" : 38997,
+  "endMs" : 40081,
+  "item" : {
+    "index" : 23,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.71624
+  }
+}, {
+  "startMs" : 40123,
+  "endMs" : 41207,
+  "item" : {
+    "index" : 24,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.089264
+  }
+}, {
+  "startMs" : 41249,
+  "endMs" : 42375,
+  "item" : {
+    "index" : 25,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.089264
+  }
+}, {
+  "startMs" : 42417,
+  "endMs" : 43752,
+  "item" : {
+    "index" : 26,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.84808
+  }
+}, {
+  "startMs" : 43793,
+  "endMs" : 46880,
+  "item" : {
+    "index" : 27,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.41647
+  }
+}, {
+  "startMs" : 46921,
+  "endMs" : 49299,
+  "item" : {
+    "index" : 28,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.41647
+  }
+}, {
+  "startMs" : 49340,
+  "endMs" : 50967,
+  "item" : {
+    "index" : 29,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.78154
+  }
+}, {
+  "startMs" : 51009,
+  "endMs" : 51760,
+  "item" : {
+    "index" : 30,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 98.77846
+  }
+}, {
+  "startMs" : 51801,
+  "endMs" : 52594,
+  "item" : {
+    "index" : 31,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 95.410385
+  }
+}, {
+  "startMs" : 52635,
+  "endMs" : 53219,
+  "item" : {
+    "index" : 32,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 95.410385
+  }
+}, {
+  "startMs" : 53261,
+  "endMs" : 53595,
+  "item" : {
+    "index" : 33,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 96.87059
+  }
+}, {
+  "startMs" : 53636,
+  "endMs" : 55013,
+  "item" : {
+    "index" : 34,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.2623
+  }
+}, {
+  "startMs" : 55055,
+  "endMs" : 56056,
+  "item" : {
+    "index" : 35,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 97.57025
+  }
+}, {
+  "startMs" : 56097,
+  "endMs" : 56806,
+  "item" : {
+    "index" : 36,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 97.185616
+  }
+}, {
+  "startMs" : 56848,
+  "endMs" : 57515,
+  "item" : {
+    "index" : 37,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 82.59433
+  }
+}, {
+  "startMs" : 57557,
+  "endMs" : 58141,
+  "item" : {
+    "index" : 38,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 82.59433
+  }
+}, {
+  "startMs" : 58183,
+  "endMs" : 58641,
+  "item" : {
+    "index" : 39,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 84.05453
+  }
+}, {
+  "startMs" : 58683,
+  "endMs" : 58725,
+  "item" : {
+    "index" : 40,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 82.524536
+  }
+}, {
+  "startMs" : 58767,
+  "endMs" : 61519,
+  "item" : {
+    "index" : 41,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 82.524536
+  }
+}, {
+  "startMs" : 61561,
+  "endMs" : 66483,
+  "item" : {
+    "index" : 42,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 91.105865
+  }
+}, {
+  "startMs" : 66733,
+  "endMs" : 72030,
+  "item" : {
+    "index" : 43,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 91.105865
+  }
+}, {
+  "startMs" : 72072,
+  "endMs" : 72405,
+  "item" : {
+    "index" : 44,
+    "type" : "SHOT",
+    "cueType" : null,
+    "weight" : 99.96261
+  }
+} ]
